@@ -1,27 +1,40 @@
-# 🚀 Welcome to Our Organization
+# .github
 
-## 🏢 About Us
-이곳은 **실용적이고 견고한 소프트웨어**를 만드는 팀의 공간입니다.
-우리는 비즈니스 가치를 창출하는 코드에 집중합니다.
+Finders 조직의 GitHub 프로필 및 공용 설정을 관리하는 저장소입니다.
 
----
+## Structure
 
-## 🛠 Tech Stack
+```
+.github/
+├── profile/
+│   ├── README.md          ← GitHub 조직 프로필에 표시되는 메인 README
+│   └── assets/
+│       ├── logo.png       ← Finders 로고
+│       ├── banner.png     ← 배너 이미지 (디자이너 전달 후 추가)
+│       └── team/          ← 팀원 프로필 사진 (naming: {romanized-name}.jpg)
+└── README.md              ← 이 파일 (저장소 설명용)
+```
 
-### Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+## Banner Spec
 
-### Backend
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+디자이너에게 전달할 배너 규격:
 
-### DevOps & Tools
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+| 항목 | 값 |
+|:-----|:---|
+| 사이즈 | **1280 x 320px** (4:1) |
+| 포맷 | PNG |
+| 브랜드 컬러 | `#E94E16` |
+| 배경색 | `#131313` |
+| 파일 크기 | 1MB 이하 |
 
----
+배너 수령 후 `profile/assets/banner.png`에 저장하고, `profile/README.md` 상단의 배너 주석을 해제하세요.
 
-## 📌 Main Projects
+## Team Photo Naming
 
-| 프로젝트명 | 설명 | 기술 스택 |
-|:---:|:---|:---:|
-| **Spring** | 백엔드 코어 서버 로직 및 API | `Spring Boot` `JPA` |
-| **Web** | 사용자 인터페이스 및 프론트엔드 | `React` `Next.js` |
+팀원 사진은 `profile/assets/team/` 디렉토리에 로마자 표기로 저장합니다:
+
+```
+kim-deokhwan.jpg
+lee-seungjoo.jpg
+...
+```
