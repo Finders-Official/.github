@@ -38,8 +38,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Finders-Official/Finders_BE"><img src="https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repo"/></a>&nbsp;
-  <a href="https://github.com/Finders-Official/Finders_FE"><img src="https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo"/></a>
+  <a href="https://github.com/Finders-Official/BE"><img src="https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repo"/></a>&nbsp;
+  <a href="https://github.com/Finders-Official/FE"><img src="https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo"/></a>
 </p>
 
 <br/>
