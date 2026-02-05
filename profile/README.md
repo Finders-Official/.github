@@ -127,8 +127,8 @@ AI 사진 복원, 커뮤니티 피드, 필름카메라 가이드 등 필름 생�
 
 | Repository | Description |
 |:-----------|:------------|
-| [**Finders_BE**](https://github.com/Finders-Official/Finders_BE) | Spring Boot 백엔드 — API 서버, 결제, AI 복원, 알림 |
-| [**Finders_FE**](https://github.com/Finders-Official/Finders_FE) | React 프론트엔드 — 사용자 인터페이스, 현상소 탐색, 커뮤니티 |
+| [**Finders_BE**](https://github.com/Finders-Official/BE) | Spring Boot 백엔드 — API 서버, 결제, AI 복원, 알림 |
+| [**Finders_FE**](https://github.com/Finders-Official/FE) | React 프론트엔드 — 사용자 인터페이스, 현상소 탐색, 커뮤니티 |
 
 <br/>
 
