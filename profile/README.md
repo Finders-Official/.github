@@ -86,66 +86,53 @@ AI 사진 복원, 커뮤니티 피드, 필름카메라 가이드 등 필름 생�
 
 <table>
   <tr>
-    <th align="center"><img src="https://img.shields.io/badge/Frontend-131313?style=for-the-badge" alt="Frontend"/></th>
-    <th align="center"><img src="https://img.shields.io/badge/Backend-131313?style=for-the-badge" alt="Backend"/></th>
-    <th align="center"><img src="https://img.shields.io/badge/Infra_&_DevOps-131313?style=for-the-badge" alt="Infra & DevOps"/></th>
+    <th align="center" width="33%"><img src="https://img.shields.io/badge/Frontend-E94E16?style=for-the-badge" alt="Frontend"/></th>
+    <th align="center" width="34%"><img src="https://img.shields.io/badge/Backend-E94E16?style=for-the-badge" alt="Backend"/></th>
+    <th align="center" width="33%"><img src="https://img.shields.io/badge/Infra_&_DevOps-E94E16?style=for-the-badge" alt="Infra & DevOps"/></th>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19"/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/><br/>
-      <img src="https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 7"/><br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4"/><br/>
-      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router"/><br/>
-      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand"/><br/>
-      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/><br/>
-      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios"/><br/>
-      <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm"/><br/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/><br/>
-      <br/>
-    </td>
-    <td align="center" valign="top" width="34%">
-      <br/>
-      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21"/><br/>
-      <img src="https://img.shields.io/badge/Spring_Boot_3.4-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3.4"/><br/>
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/><br/>
-      <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA"/><br/>
-      <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logo=hibernate&logoColor=white" alt="QueryDSL"/><br/>
-      <img src="https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8"/><br/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/><br/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/><br/>
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/><br/>
-      <img src="https://img.shields.io/badge/PortOne_V2-6658D3?style=flat-square&logoColor=white" alt="PortOne V2"/><br/>
-      <img src="https://img.shields.io/badge/Replicate_AI-262626?style=flat-square&logoColor=white" alt="Replicate AI"/><br/>
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19"/><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/><br/><br/>
+      <img src="https://img.shields.io/badge/Vite_7-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 7"/><br/><br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4"/><br/><br/>
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router"/><br/><br/>
+      <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/><br/><br/>
+      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/><br/><br/>
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/><br/><br/>
+      <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm"/><br/><br/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/><br/>
       <br/>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/><br/>
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/><br/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/><br/>
-      <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik"/><br/>
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/><br/>
-      <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/><br/>
+      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/><br/><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot_3.4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 3.4"/><br/><br/>
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/><br/><br/>
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA"/><br/><br/>
+      <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge&logo=hibernate&logoColor=white" alt="QueryDSL"/><br/><br/>
+      <img src="https://img.shields.io/badge/MySQL_8-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8"/><br/><br/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/><br/><br/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/><br/><br/>
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/><br/><br/>
+      <img src="https://img.shields.io/badge/PortOne_V2-6658D3?style=for-the-badge&logoColor=white" alt="PortOne V2"/><br/><br/>
+      <img src="https://img.shields.io/badge/Replicate_AI-262626?style=for-the-badge&logoColor=white" alt="Replicate AI"/><br/>
+      <br/>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/><br/><br/>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/><br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/><br/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/><br/><br/>
+      <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik"/><br/><br/>
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/><br/><br/>
+      <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/><br/>
       <br/>
     </td>
   </tr>
 </table>
-
-<br/>
-
----
-
-<!-- ====================== REPOSITORIES ====================== -->
-
-## Repositories
-
-| Repository                                               | Description                                                 |
-| :------------------------------------------------------- | :---------------------------------------------------------- |
-| [**Finders_BE**](https://github.com/Finders-Official/BE) | Spring Boot 백엔드 — API 서버, 결제, AI 복원, 알림          |
-| [**Finders_FE**](https://github.com/Finders-Official/FE) | React 프론트엔드 — 사용자 인터페이스, 현상소 탐색, 커뮤니티 |
 
 <br/>
 
