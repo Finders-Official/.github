@@ -38,8 +38,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Finders-Official/BE"><img src="https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repo"/></a>&nbsp;
   <a href="https://github.com/Finders-Official/FE"><img src="https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo"/></a>
+  <a href="https://github.com/Finders-Official/BE"><img src="https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repo"/></a>
 </p>
 
 <br/>
@@ -64,15 +64,15 @@ AI 사진 복원, 커뮤니티 피드, 필름카메라 가이드 등 필름 생�
 
 <br/>
 
-| Feature | Description |
-|:--------|:------------|
+| Feature                | Description                                    |
+| :--------------------- | :--------------------------------------------- |
 | **현상소 탐색 & 예약** | 위치·가격·리뷰 기반 현상소 검색 및 온라인 예약 |
-| **결제 시스템** | PortOne V2 연동 간편 결제 |
-| **사진 관리 & 스캔** | 현상 완료된 사진 디지털 관리 |
-| **AI 사진 복원** | Replicate AI 기반 오래된 필름 사진 복원 |
-| **커뮤니티 피드** | 필름 사진 공유 및 소통 공간 |
-| **필름카메라 가이드** | 초보자를 위한 필름카메라 입문 가이드 |
-| **카카오 알림톡** | 예약·현상 완료 등 실시간 알림 |
+| **결제 시스템**        | PortOne V2 연동 간편 결제                      |
+| **사진 관리 & 스캔**   | 현상 완료된 사진 디지털 관리                   |
+| **AI 사진 복원**       | Replicate AI 기반 오래된 필름 사진 복원        |
+| **커뮤니티 피드**      | 필름 사진 공유 및 소통 공간                    |
+| **필름카메라 가이드**  | 초보자를 위한 필름카메라 입문 가이드           |
+| **카카오 알림톡**      | 예약·현상 완료 등 실시간 알림                  |
 
 </details>
 
@@ -84,38 +84,55 @@ AI 사진 복원, 커뮤니티 피드, 필름카메라 가이드 등 필름 생�
 
 ## Tech Stack
 
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React_19-E94E16?style=for-the-badge&logo=react&logoColor=white" alt="React 19"/>
-  <img src="https://img.shields.io/badge/TypeScript-E94E16?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Vite_7-E94E16?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 7"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-E94E16?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4"/>
-  <img src="https://img.shields.io/badge/Zustand-E94E16?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-E94E16?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/>
-  <img src="https://img.shields.io/badge/Vercel-E94E16?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Java_21-E94E16?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
-  <img src="https://img.shields.io/badge/Spring_Boot_3.4-E94E16?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 3.4"/>
-  <img src="https://img.shields.io/badge/MySQL_8-E94E16?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8"/>
-  <img src="https://img.shields.io/badge/Redis-E94E16?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/QueryDSL-E94E16?style=for-the-badge&logo=hibernate&logoColor=white" alt="QueryDSL"/>
-  <img src="https://img.shields.io/badge/PortOne_V2-E94E16?style=for-the-badge&logoColor=white" alt="PortOne V2"/>
-  <img src="https://img.shields.io/badge/Replicate_AI-E94E16?style=for-the-badge&logo=ai&logoColor=white" alt="Replicate AI"/>
-</p>
-
-### Infra & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/GCP-E94E16?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Docker-E94E16?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-E94E16?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Sentry-E94E16?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
-</p>
+<table>
+  <tr>
+    <th align="center"><img src="https://img.shields.io/badge/Frontend-131313?style=for-the-badge" alt="Frontend"/></th>
+    <th align="center"><img src="https://img.shields.io/badge/Backend-131313?style=for-the-badge" alt="Backend"/></th>
+    <th align="center"><img src="https://img.shields.io/badge/Infra_&_DevOps-131313?style=for-the-badge" alt="Infra & DevOps"/></th>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19"/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/><br/>
+      <img src="https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 7"/><br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4"/><br/>
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router"/><br/>
+      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand"/><br/>
+      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/><br/>
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios"/><br/>
+      <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm"/><br/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/><br/>
+      <br/>
+    </td>
+    <td align="center" valign="top" width="34%">
+      <br/>
+      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21"/><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot_3.4-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3.4"/><br/>
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/><br/>
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA"/><br/>
+      <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logo=hibernate&logoColor=white" alt="QueryDSL"/><br/>
+      <img src="https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8"/><br/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/><br/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/><br/>
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/><br/>
+      <img src="https://img.shields.io/badge/PortOne_V2-6658D3?style=flat-square&logoColor=white" alt="PortOne V2"/><br/>
+      <img src="https://img.shields.io/badge/Replicate_AI-262626?style=flat-square&logoColor=white" alt="Replicate AI"/><br/>
+      <br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/><br/>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/><br/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/><br/>
+      <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik"/><br/>
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/><br/>
+      <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/><br/>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -125,9 +142,9 @@ AI 사진 복원, 커뮤니티 피드, 필름카메라 가이드 등 필름 생�
 
 ## Repositories
 
-| Repository | Description |
-|:-----------|:------------|
-| [**Finders_BE**](https://github.com/Finders-Official/BE) | Spring Boot 백엔드 — API 서버, 결제, AI 복원, 알림 |
+| Repository                                               | Description                                                 |
+| :------------------------------------------------------- | :---------------------------------------------------------- |
+| [**Finders_BE**](https://github.com/Finders-Official/BE) | Spring Boot 백엔드 — API 서버, 결제, AI 복원, 알림          |
 | [**Finders_FE**](https://github.com/Finders-Official/FE) | React 프론트엔드 — 사용자 인터페이스, 현상소 탐색, 커뮤니티 |
 
 <br/>
