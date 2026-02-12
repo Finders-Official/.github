@@ -53,10 +53,6 @@
 **Finders**는 필름 카메라 사용자가 **현상소를 탐색하고, 예약하고, 결제까지** 한 번에 처리할 수 있는 서비스입니다.
 AI 사진 복원, 커뮤니티 피드, 필름카메라 가이드 등 필름 생활 전반을 아우르는 기능을 제공합니다.
 
-> **UMC 9기** 대학교 연합 IT 동아리 프로젝트 &nbsp;·&nbsp; 11명의 팀원 &nbsp;·&nbsp; 실제 수익을 목표로 하는 서비스
-
-<br/>
-
 <!-- ====================== KEY FEATURES ====================== -->
 
 <details>
@@ -74,9 +70,43 @@ AI 사진 복원, 커뮤니티 피드, 필름카메라 가이드 등 필름 생�
 | **필름카메라 가이드**  | 초보자를 위한 필름카메라 입문 가이드           |
 | **카카오 알림톡**      | 예약·현상 완료 등 실시간 알림                  |
 
+<br/>
+
 </details>
 
-<br/>
+---
+
+## Screenshot Overview
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Finders-Official/.github/main/profile/assets/Landing_Page_1.png" alt="Finders Banner" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Finders-Official/.github/main/profile/assets/Landing_page_2.png" alt="Finders Banner" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Finders-Official/.github/main/profile/assets/Landing_page_3.png" alt="Finders Banner" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Finders-Official/.github/main/profile/assets/Landing_page_4.png" alt="Finders Banner" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Finders-Official/.github/main/profile/assets/Landing_page_5.png" alt="Finders Banner" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Finders-Official/.github/main/profile/assets/Landing_page_6.png" alt="Finders Banner" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Finders-Official/.github/main/profile/assets/Landing_page_7.png" alt="Finders Banner" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Finders-Official/.github/main/profile/assets/Landing_page_8.png" alt="Finders Banner" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Finders-Official/.github/main/profile/assets/Landing_page_9.png" alt="Finders Banner" width="100%" />
+</p>
 
 ---
 
@@ -146,6 +176,9 @@ AI 사진 복원, 커뮤니티 피드, 필름카메라 가이드 등 필름 생�
 <!-- ====================== TEAM ====================== -->
 
 ## Team
+> **UMC 9기** 대학교 연합 IT 동아리 프로젝트 &nbsp;·&nbsp; 11명의 팀원 &nbsp;·&nbsp; 실제 수익을 목표로 하는 서비스
+
+<br/>
 
 <table>
   <tr>
@@ -236,6 +269,10 @@ AI 사진 복원, 커뮤니티 피드, 필름카메라 가이드 등 필름 생�
 </table>
 
 <br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Finders-Official/.github/main/profile/assets/Landing_page_10.png" alt="Finders Banner" width="100%" />
+</p>
 
 ---
 
