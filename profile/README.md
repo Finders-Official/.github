@@ -263,7 +263,7 @@ AI 사진 복원, 커뮤니티 피드, 필름카메라 가이드 등 필름 생�
       <a href="https://github.com/wldy4627"><img src="https://github.com/wldy4627.png" width="100" alt="장지요"/></a><br/>
       <b>장지요</b><br/>
       <a href="https://github.com/wldy4627"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-      <a href="https://www.notion.so/Server-2280dd3839fa804d9395fadfc32fff21"><img src="https://img.shields.io/badge/-Portfolio-E94E16?style=flat-square&logo=notion&logoColor=white" alt="Portfolio"/></a>
+      <a href="https://garrulous-tree-bb1.notion.site/Server-2280dd3839fa804d9395fadfc32fff21"><img src="https://img.shields.io/badge/-Portfolio-E94E16?style=flat-square&logo=notion&logoColor=white" alt="Portfolio"/></a>
     </td>
   </tr>
 </table>
